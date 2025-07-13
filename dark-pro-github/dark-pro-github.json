@@ -2,9 +2,9 @@
   "name": "Dark Pro Github",
   "colors": {
     "foreground": "#cccccc",
-    "focusBorder": "#007fd4",
+    "focusBorder": "#474747",
     "selection.background": "#256aa7",
-    "scrollbar.shadow": "#000000",
+    "scrollbar.shadow": "#ffffff00",
     "activityBar.foreground": "#ffffff",
     "activityBar.background": "#111111",
     "activityBar.inactiveForeground": "#ffffff4c",
