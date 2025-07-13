@@ -8,5 +8,5 @@
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
    - `Dark Pro Github`
-   - `Dark Pro Github (Black)`
    - `Dark Pro VSC`
+   - `Dark Pro Black & White`

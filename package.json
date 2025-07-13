@@ -35,14 +35,14 @@
         "path": "./dark-pro-github/dark-pro-github.json"
       },
       {
-        "label": "Dark Pro Github (Black)",
-        "uiTheme": "vs-dark",
-        "path": "./dark-pro-github-black/dark-pro-github-black.json"
-      },
-      {
         "label": "Dark Pro VSC",
         "uiTheme": "vs-dark",
         "path": "./dark-pro-vsc/dark-pro-vsc.json"
+      },
+      {
+        "label": "Dark Pro Black & White",
+        "uiTheme": "vs-dark",
+        "path": "./dark-pro-b&w/dark-pro-b&w.json"
       }
     ]
   },
