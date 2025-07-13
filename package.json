@@ -1,17 +1,17 @@
 {
-  "name": "dark-pro-theme",
-  "displayName": "Dark Pro Theme",
+  "name": "dark-pro-vscode-default",
+  "displayName": "Dark Pro (Github default & VScode default) Theme",
   "description": "Recolored 'Github Dark Default' & 'VSCode Dark Modern' color themes for VS Code",
   "publisher": "Mutawirr",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/developerbola/dark-pro-github"
+    "url": "https://github.com/developerbola/dark-pro-theme"
   },
   "bugs": {
-    "url": "https://github.com/developerbola/dark-pro-github"
+    "url": "https://theme.com/developerbola/dark-pro-theme"
   },
   "engines": {
     "vscode": "^1.43.0"
