@@ -125,7 +125,7 @@
     "diffEditor.border": "#ffffff26",
     "panel.background": "#000000",
     "panel.border": "#ffffff20",
-    "panelTitle.activeBorder": "#ff9b00",
+    "panelTitle.activeBorder": "#ffffff80",
     "panelTitle.activeForeground": "#e7e7e7",
     "panelTitle.inactiveForeground": "#e7e7e780",
     "badge.background": "#363636",
