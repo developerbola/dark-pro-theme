@@ -4,7 +4,7 @@
   "description": "Recolored 'Github Dark Default' & 'VSCode Dark Modern' color themes for VS Code",
   "publisher": "Mutawirr",
   "license": "MIT",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -43,6 +43,11 @@
         "label": "Dark Pro Black & White",
         "uiTheme": "vs-dark",
         "path": "./dark-pro-b&w/dark-pro-b&w.json"
+      },
+      {
+        "label": "Dark Pro Black & White VSC",
+        "uiTheme": "vs-dark",
+        "path": "./dark-pro-b&w-vsc/dark-pro-b&w-vsc.json"
       }
     ]
   },
